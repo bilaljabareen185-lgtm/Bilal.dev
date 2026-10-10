@@ -1,4 +1,4 @@
-
+# Bilal.dev
 [ReadMe.md](https://github.com/user-attachments/files/33290714/ReadMe.md)
 # 💫 About Me:
 I'm a developer interested in building modern web and mobile applications. I enjoy learning new technologies, solving problems, and turning ideas into practical projects.<br><br>Currently working on web and mobile application projects.<br><br>Interested in collaborating on web development and mobile app projects.<br><br>Currently learning and improving my skills in full-stack development.<br><br>Ask me about web development, mobile apps, and UI/UX design.<br><br>Languages and Technologies<br><br>Frontend: HTML, CSS, Next.js<br><br>Backend: PHP, Laravel<br><br>Mobile Development: Dart, Flutter<br><br>Database: MySQL<br><br>Design: Figma
